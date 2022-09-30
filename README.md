@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on developing myself in the programming  field<br>👯 I'm looking to collaborate on a new project in React JS<br>🤝 I'm looking for help with finding my first opportunity<br>🌱 I’m currently learning React JS<br>💬 Ask me about<br>⚡ Fun fact that I love playing games , coding ,and watching football
+🔭 I am currently working on developing myself in the programming  field<br>👯 I'm looking to collaborate on a new project in React JS<br>🤝 I'm looking for help with finding my first opportunity<br>🌱 I’m currently learning React JS<br>💬 Ask me about anything you want<br>⚡ Fun fact that I love playing games , coding ,and watching football
 
 
 ## 🌐 Socials:
